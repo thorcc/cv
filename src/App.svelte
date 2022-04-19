@@ -46,7 +46,7 @@
     <h2>Prosjekter</h2>
     <ul>
       <li><a target="_blank" href="https://jonasropstad.netlify.app/">jonasropstad.netlify.app</a> - portefølje for billedkunstneren Jonas Ropstad</li>
-      <li><a href="https://bits-og-bytes.netlify.app/">bits-og-bytes.netlify.app</a> - visualisering av totallsystemet</li>
+      <li><a target="_blank" href="https://bits-og-bytes.netlify.app/">bits-og-bytes.netlify.app</a> - visualisering av totallsystemet</li>
       <li><a target="_blank" href="https://setify.netlify.app">setify.netlify.app</a> - webapp som lager Spotify-spillelister fra setlister</li>
       <li><a target="_blank" href="https://artist-img.glitch.me/">artist-img.glitch.me</a> - søkemotor for artistbilder</li>
       <li><a target="_blank" href="https://www.wagland.art/">wagland.art</a> - portefølje for billedkunstneren Roger Wagland</li>
@@ -73,7 +73,7 @@
 
     <h2>Diverse</h2>
     <ul>
-      <li><a href="https://github.com/thorcc" target="_blank">github.com/thorcc</a></li>
+      <li><a target="_blank" href="https://github.com/thorcc">github.com/thorcc</a></li>
       
       <li>
         <a target="_blank" href="https://raw.githubusercontent.com/thorcc/cv/master/cv.pdf">CV (cv.pdf)</a>
