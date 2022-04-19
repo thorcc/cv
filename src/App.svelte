@@ -23,7 +23,7 @@
 
     <h2>Utdanning</h2>
     <ul>
-      <li>UiO: Fritt sammensatt bachelor i informatikk (ferdig våren 2022)</li>
+      <li>UiO: Faglig påfyll - 60 studiepoeng i informatikk</li>
       <li>UiO: Praktisk pedagogisk utdanning (PPU)</li>
       <li>NTNU: Produktutvikling og produksjon (2-årig master)</li>
       <li>HiOA: Maskiningeniør (bachelor)</li>
