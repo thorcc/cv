@@ -4,6 +4,12 @@
     text1: "thorchrcow",
     text2: "gmail.com",
   };
+
+  const handleMailClick = () => {
+    if (hidden) {
+          hidden = false
+        }
+    }
 </script>
 
 <main>
@@ -11,6 +17,14 @@
   <div id="info">
     <h1>Thor Christian Coward</h1>
     <p>Lektor, sivilingeniør og utvikler</p>
+    <p id="mail" on:click={handleMailClick}>
+      {#if hidden}
+        klikk her for å vise epost
+      {:else}
+        <a href="mailto:{hiddenstring.text1}@{hiddenstring.text2}">{hiddenstring.text1}@{hiddenstring.text2}</a>
+
+      {/if}
+    </p>
   </div>
 
   <img src="/bilde.jpg" alt="Thor Christian står på huk ved siden av en tøff bil"/>
@@ -60,13 +74,7 @@
     <h2>Diverse</h2>
     <ul>
       <li><a href="https://github.com/thorcc" target="_blank">github.com/thorcc</a></li>
-      <li id="mail" on:click={() => (hidden = !hidden)}>
-        {#if hidden}
-          klikk her for å vise epost
-        {:else}
-          {hiddenstring.text1}@{hiddenstring.text2}
-        {/if}
-      </li>
+      
       <li>
         <a target="_blank" href="https://raw.githubusercontent.com/thorcc/cv/master/cv.pdf">CV (cv.pdf)</a>
       </li>
@@ -100,14 +108,15 @@
   }
   #mail {
     cursor: pointer;
-    border-bottom: solid 1px black;
+    /* border-bottom: solid 1px black; */
+    text-decoration: underline;
     width: fit-content;
     padding: 1px;
   }
   #mail:hover::marker {
     color: black;
   }
-  #mail:hover {
+  #mail:hover, #mail>a:hover {
     color: white;
     background-color: black;
   }
