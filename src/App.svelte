@@ -1,8 +1,8 @@
 <script>
   let hidden = true;
   const hiddenstring = {
-    text1: "thorc",
-    text2: "viken.no",
+    text1: "thorchrcow",
+    text2: "gmail.com",
   };
 </script>
 
