@@ -67,6 +67,9 @@
           {hiddenstring.text1}@{hiddenstring.text2}
         {/if}
       </li>
+      <li>
+        <a target="_blank" href="https://raw.githubusercontent.com/thorcc/cv/master/cv.pdf">CV (cv.pdf)</a>
+      </li>
     </ul>
   </div>
 
