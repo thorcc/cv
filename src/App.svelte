@@ -27,22 +27,9 @@
     </p>
   </div>
 
-  <img src="/bilde.jpg" alt="Thor Christian står på huk ved siden av en tøff bil"/>
+  <img src="/bilde.jpg" alt="Thor Christian sitter på huk ved siden av en tøff bil"/>
   
   <div>
-    <h2>Arbeid</h2>
-    <ul>
-      <li>Lærer på Sandvika Videregående Skole, underviser i matematikk, IT1 og IT2</li>
-    </ul>
-
-    <h2>Utdanning</h2>
-    <ul>
-      <li>UiO: Faglig påfyll - 60 studiepoeng i informatikk</li>
-      <li>UiO: Praktisk pedagogisk utdanning (PPU)</li>
-      <li>NTNU: Produktutvikling og produksjon (2-årig master)</li>
-      <li>HiOA: Maskiningeniør (bachelor)</li>
-    </ul>
-
     <h2>Prosjekter</h2>
     <ul>
       <li><a target="_blank" href="https://jonasropstad.netlify.app/">jonasropstad.netlify.app</a> - portefølje for billedkunstneren Jonas Ropstad</li>
@@ -53,12 +40,27 @@
       <li><a target="_blank" href="https://sandvika.it">sandvika.it</a> - digital lærebok for IT1</li>
     </ul>
 
+    
+    <h2>Arbeid</h2>
+    <ul>
+      <li>Lærer på Sandvika Videregående Skole, underviser i IT1 og IT2</li>
+    </ul>
+
+    <h2>Utdanning</h2>
+    <ul>
+      <li>UiO: Faglig påfyll - 60 studiepoeng i informatikk</li>
+      <li>UiO: Praktisk pedagogisk utdanning (PPU)</li>
+      <li>NTNU: Produktutvikling og produksjon (2-årig master)</li>
+      <li>HiOA: Maskiningeniør (bachelor)</li>
+    </ul>
+
+
     <h2>IT-kompetanse</h2>
 
     <h3>Teknologier</h3>
     <ul>
       <li>Webutvikling - HTML, CSS, Javascript, Node, ReactJS, NextJS, Gatsby, Svelte, SvelteKit ++</li>
-      <li>Databaser og CMS - SQL, Firebase, Sanity, Contentful</li>
+      <li>Databaser og CMS - SQL, Firebase, Sanity, Supabase</li>
       <li>Ingeniørarbeid - KBE (AML), 3D-modellering, algoritmer og datastrukturer</li>
       <li>Multimedier - Photoshop, Illustrator, XD, Premiere Pro, Audition</li>
     </ul>
