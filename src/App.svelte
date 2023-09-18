@@ -119,13 +119,6 @@
     width: fit-content;
     padding: 1px;
   }
-  #mail:hover::marker {
-    color: black;
-  }
-  #mail:hover, #mail>a:hover {
-    color: white;
-    background-color: black;
-  }
   @media only screen and (max-width: 1000px) {
     main {
       grid-template-columns: 1fr;
