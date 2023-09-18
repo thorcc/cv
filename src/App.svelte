@@ -102,9 +102,6 @@
     min-height: 98vh;
     object-fit: cover;
   }
-  h2 {
-    text-decoration: underline;
-  }
   a {
     color: black;
   }
