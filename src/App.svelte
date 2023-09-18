@@ -16,14 +16,18 @@
 
   <div id="info">
     <h1>Thor Christian Coward</h1>
-    <p>Lektor, sivilingeniør og utvikler</p>
-    <p id="mail" on:click={handleMailClick}>
-      {#if hidden}
+    <p>- Lektor, siving. og utvikler</p>
+    <h2>👇 Gira på nettside? 👇</h2>
+    <p>
+      Send mail til
+      <span id="mail" on:click={handleMailClick}>
+        {#if hidden}
         klikk her for å vise epost
-      {:else}
+        {:else}
         <a href="mailto:{hiddenstring.text1}@{hiddenstring.text2}">{hiddenstring.text1}@{hiddenstring.text2}</a>
-
-      {/if}
+        
+        {/if}
+      </span>
     </p>
   </div>
 
