@@ -105,6 +105,9 @@
   a {
     color: black;
   }
+  h3{
+    font-size: 0.8rem;
+  }
   #mail {
     cursor: pointer;
     /* border-bottom: solid 1px black; */
