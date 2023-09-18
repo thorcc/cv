@@ -43,7 +43,7 @@
     
     <h2>Arbeid</h2>
     <ul>
-      <li>Lærer på Sandvika Videregående Skole, underviser i IT1 og IT2</li>
+      <li>Lærer på Sandvika Videregående Skole, underviser i matematikk, IT1 og IT2</li>
     </ul>
 
     <h2>Utdanning</h2>
