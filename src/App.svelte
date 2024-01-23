@@ -1,8 +1,8 @@
 <script>
   let hidden = true;
   const hiddenstring = {
-    text1: "post",
-    text2: "thorcc.no",
+    text1: "thorcc",
+    text2: "pm.me",
   };
 
   const handleMailClick = () => {
@@ -36,6 +36,8 @@
   <div>
     <h2>Prosjekter</h2>
     <ul>
+      <li><a target="_blank" href="https://rudolftb.no/">rudolftb.no</a> - portefølje for Rudolf Terland Bjørnerem</li>
+      <li><a target="_blank" href="https://torner.no/">torner.no</a> - nettbutikk for kunstnerern Jo Toft Brochmann</li>
       <li><a target="_blank" href="https://jonasropstad.netlify.app/">jonasropstad.netlify.app</a> - portefølje for billedkunstneren Jonas Ropstad</li>
       <li><a target="_blank" href="https://bits-og-bytes.netlify.app/">bits-og-bytes.netlify.app</a> - visualisering av totallsystemet</li>
       <li><a target="_blank" href="https://setify.netlify.app">setify.netlify.app</a> - webapp som lager Spotify-spillelister fra setlister</li>
@@ -56,8 +58,8 @@
       <li>NTNU: Produktutvikling og produksjon (2-årig master)</li>
       <li>HiOA: Maskiningeniør (bachelor)</li>
     </ul>
-
-
+    
+    
     <h2>IT-kompetanse</h2>
 
     <h3>Teknologier</h3>
@@ -75,7 +77,7 @@
       <li>Java</li>
       <li>Lisp (<a target="_blank" href="https://www.technosoft.com/application-software/adaptive-modeling-language/">AML</a>)</li>
     </ul>
-
+    
     <h2>Diverse</h2>
     <ul>
       <li><a target="_blank" href="https://github.com/thorcc">github.com/thorcc</a></li>
