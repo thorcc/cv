@@ -37,7 +37,7 @@
     <h2>Prosjekter</h2>
     <ul>
       <li><a target="_blank" href="https://rudolftb.no/">rudolftb.no</a> - portefølje for Rudolf Terland Bjørnerem</li>
-      <li><a target="_blank" href="https://torner.no/">torner.no</a> - nettbutikk for kunstnerern Jo Toft Brochmann</li>
+      <li><a target="_blank" href="https://torner.no/">torner.no</a> - nettbutikk for kunstneren Jo Toft Brochmann</li>
       <li><a target="_blank" href="https://jonasropstad.netlify.app/">jonasropstad.netlify.app</a> - portefølje for billedkunstneren Jonas Ropstad</li>
       <li><a target="_blank" href="https://bits-og-bytes.netlify.app/">bits-og-bytes.netlify.app</a> - visualisering av totallsystemet</li>
       <li><a target="_blank" href="https://setify.netlify.app">setify.netlify.app</a> - webapp som lager Spotify-spillelister fra setlister</li>
